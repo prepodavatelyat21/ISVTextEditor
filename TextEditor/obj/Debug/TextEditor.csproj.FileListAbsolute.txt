@@ -1,0 +1,27 @@
+D:\University\2Trimestyr\GPI\Proekt\TextEditor\bin\Debug\TextEditor.exe.config
+D:\University\2Trimestyr\GPI\Proekt\TextEditor\bin\Debug\TextEditor.exe
+D:\University\2Trimestyr\GPI\Proekt\TextEditor\bin\Debug\TextEditor.pdb
+D:\University\2Trimestyr\GPI\Proekt\TextEditor\obj\Debug\TextEditor.csprojResolveAssemblyReference.cache
+D:\University\2Trimestyr\GPI\Proekt\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+D:\University\2Trimestyr\GPI\Proekt\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.Cache
+D:\University\2Trimestyr\GPI\Proekt\TextEditor\obj\Debug\TextEditor.exe
+D:\University\2Trimestyr\GPI\Proekt\TextEditor\obj\Debug\TextEditor.pdb
+D:\University\2Trimestyr\GPI\Proekt\TextEditor\obj\Debug\TextEditor.InfoForm.resources
+D:\University\2Trimestyr\GPI\Proekt\TextEditor\obj\Debug\TextEditor.MainForm.resources
+D:\University\2Trimestyr\GPI\Proekt\TextEditor\obj\Debug\TextEditor.SearchForm.resources
+D:\University\2Trimestyr\GPI\Proekt\TextEditor\obj\Debug\TextEditor.ReplaceForm.resources
+C:\Users\Ivaylo Vasilev\Desktop\Proekt\TextEditor\bin\Debug\TextEditor.exe.config
+C:\Users\Ivaylo Vasilev\Desktop\Proekt\TextEditor\bin\Debug\TextEditor.exe
+C:\Users\Ivaylo Vasilev\Desktop\Proekt\TextEditor\bin\Debug\TextEditor.pdb
+C:\Users\Ivaylo Vasilev\Desktop\Proekt\TextEditor\obj\Debug\TextEditor.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo Vasilev\Desktop\Proekt\TextEditor\obj\Debug\TextEditor.MainForm.resources
+C:\Users\Ivaylo Vasilev\Desktop\Proekt\TextEditor\obj\Debug\TextEditor.InfoForm.resources
+C:\Users\Ivaylo Vasilev\Desktop\Proekt\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+C:\Users\Ivaylo Vasilev\Desktop\Proekt\TextEditor\obj\Debug\TextEditor.ReplaceForm.resources
+C:\Users\Ivaylo Vasilev\Desktop\Proekt\TextEditor\obj\Debug\TextEditor.SearchForm.resources
+C:\Users\Ivaylo Vasilev\Desktop\Proekt\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.Cache
+C:\Users\Ivaylo Vasilev\Desktop\Proekt\TextEditor\obj\Debug\TextEditor.exe
+C:\Users\Ivaylo Vasilev\Desktop\Proekt\TextEditor\obj\Debug\TextEditor.pdb
+C:\Users\Ivaylo Vasilev\Desktop\IVSTextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+C:\Users\Ivaylo Vasilev\Desktop\IVSTextEditor\TextEditor\obj\Debug\TextEditor.exe
+C:\Users\Ivaylo Vasilev\Desktop\IVSTextEditor\TextEditor\obj\Debug\TextEditor.pdb
